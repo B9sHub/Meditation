@@ -1,1 +1,2 @@
-# Meditation
+# meditation-app
+Meditation app tutorial
